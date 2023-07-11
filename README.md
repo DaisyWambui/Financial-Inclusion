@@ -3,8 +3,8 @@ Mission: To do an analysis of the financial inclusion in East Africa mainly thro
 
 Procedure:
 
-1.Descriptive Analysis. I.e Correlation.
-2.Spatial Analysis (Location Mapping).
+1.Descriptive Analysis. I.e Correlation.<n/>
+2.Spatial Analysis (Location Mapping).<br/>
 3.Factors Influencing Financial Inclusion.
 4.Financial Inclusion Index: Develop a composite index to measure the level of financial inclusion across different countries or regions in Africa.
 5.Time-Series Analysis: If your dataset contains data over multiple years, analyze the trends and changes in financial inclusion indicators over time. 
