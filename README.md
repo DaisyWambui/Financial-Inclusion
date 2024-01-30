@@ -18,3 +18,4 @@ Procedure:
 7.Demographic Analysis: Explore the relationship between financial inclusion and demographic variables such as age, gender, education level, employment status, and location (urban/rural).
 8.Financial Literacy: Investigate the level of financial literacy among individuals in your dataset.
 
+9. Git 
